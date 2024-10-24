@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+form{
+  text-align: center;
+  width:300px;
+  height:300px;
+  background-color: blue;
+}
+label{
+  display: inline-block;
+  width:100px;
+
+}
+input{
+  display: inline-block;
+  width:100px;
+}
+img{
+  width:100px;
+  height: 100px;
+}
+.topNav{
+  display: flex;
+  flex-direction: row;
+  background-color:orange;
+  font-size: large;
+  justify-content: space-evenly;
+}
